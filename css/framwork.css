@@ -1,0 +1,48 @@
+/* Star Box */
+.d-flex {
+    display: flex;
+}
+.align-center {
+    align-items: center;
+}
+/* End Box  */
+/* Start Padding + Margin */
+.p-10 {
+    padding: 10px;
+}
+.p-20 {
+    padding: 20px;
+}
+.m-20 {
+    margin: 20px;
+}
+.mt-0 {
+    margin-top: 0;
+}
+/* End Padding + Margin */
+/* Start Color */
+.bg-white {
+    background-color: white;
+}
+.c-black {
+    color: black;
+}
+/* End Color */
+/* Start Position */
+.p-relative {
+    position: relative;
+}
+/* End Position */
+/* Start Fonts */
+.txt-c {
+    text-align: center;
+}
+.fs-14 {
+    font-size: 14px;
+}
+/* End Fonts */
+/* Start Border */
+.rad-6 {
+    border-radius: 6px;
+}
+/* End Border */
